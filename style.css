@@ -156,7 +156,7 @@ body {
 }
 .appointment-btn::before {
   content: "";
-  background-image: url( assets/images/Book-appointment.png);
+  background-image: url(assets/images/Book-appointment.png);
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;

@@ -1,3 +1,4 @@
+
 * {
   margin: 0%;
   padding: 0%;
@@ -155,7 +156,7 @@ body {
 }
 .appointment-btn::before {
   content: "";
-  background-image: url(/assets/images/Book-appointment.png);
+  background-image: url(../images/Book-appointment.png);
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -180,7 +181,7 @@ body {
 }
 .telephone-btn::before {
   content: "";
-  background-image: url(/assets/images/phone-call.png);
+  background-image: url(../images/phone-call.png);
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -190,7 +191,7 @@ body {
   top: 10px;
 }
 .clinic-bg {
-  background-image: url(/assets/images/dental-clinic.webp);
+  background-image: url(../images/dental-clinic.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -565,13 +566,13 @@ color: #000;
   color: #1a1a1a;
 }
 .rct-bg {
-  background-image: url(/assets/images/types-rct.webp);
+  background-image: url(../images/types-rct.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .re-rct-bg {
-  background-image: url(/assets/images/types-re-rct.webp);
+  background-image: url(../images/types-re-rct.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
